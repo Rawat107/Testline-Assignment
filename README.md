@@ -63,6 +63,5 @@ The program will prompt you to enter the image path. Enter the path to your imag
 
 - The program will create a directory for visual elements extracted from the image.
 - An HTML file (`output.html`) will be generated with the visual elements and extracted text organized.
-- The extracted text will also be saved to a CSV file.
 
 ---
