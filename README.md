@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ### 5. Run the Program
 
 ```sh
-python your_script.py
+python Testline assignment.py
 ```
 
 The program will prompt you to enter the image path. Enter the path to your image file, and the program will process the image to extract text and visual elements, then generate an HTML file with the results.
